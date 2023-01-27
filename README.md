@@ -21,6 +21,7 @@ Java Developer
 I've been learning to code for 3 years, after switching careers. I started with Java and found a real passion for backend development
 
 *   🌍  I'm based in Prague
+*   🧠  I'm learning java, springboot and python
 *   🤝  I'm open to collaborating on interesting and challenging projects
 ### Skills 
 <p align="left">
@@ -31,4 +32,3 @@ I've been learning to code for 3 years, after switching careers. I started with 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
-                    
