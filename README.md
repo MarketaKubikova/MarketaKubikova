@@ -20,7 +20,6 @@ Java Developer
 
 I've been learning to code for 3 years, after switching careers. I started with Java and found a real passion for backend development
 
-*   🌍  I'm based in Prague
 *   🧠  I'm learning java, springboot and python
 *   🤝  I'm open to collaborating on interesting and challenging projects
 ### Skills 
