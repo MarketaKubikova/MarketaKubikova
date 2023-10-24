@@ -20,7 +20,7 @@ Java Developer
 
 I've been learning to code for 3 years, after switching careers. I started with Java and found a real passion for backend development
 
-*   🧠  I'm learning java, springboot and python
+*   🧠  I'm learning java, springboot and kotlin
 *   🤝  I'm open to collaborating on interesting and challenging projects
 ### Skills 
 <p align="left">
